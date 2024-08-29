@@ -34,6 +34,6 @@ Este README tem como objetivo apresentar uma boa documentação referente a proj
 
  <a href = "#descricaoprojeto">Descrição do projeto</a> | <a href = "#tecnologia">Tecnologias</a> 
 
- ## :rocket Status do Projeto
+ ## :rocket: Status do Projeto
 
  <h4>Em construção</h4>
