@@ -36,4 +36,6 @@ Este README tem como objetivo apresentar uma boa documentação referente a proj
 
  ## :rocket: Status do Projeto
 
- <h4>Em construção</h4>
+ <h4>Projeto em construção</h4>
+
+ 
